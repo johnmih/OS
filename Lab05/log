@@ -1,0 +1,16 @@
+/home/ioannisam/Lab05
+filename
+log
+path
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 303038      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1293/ioannisam)   Gid: ( 1295/ioannisam)
+Access: 2024-12-16 11:28:35.889237589 +0200
+Modify: 2024-12-16 11:28:35.889237589 +0200
+Change: 2024-12-16 11:28:35.889237589 +0200
+ Birth: -
+file.txt content
+file.txt content
+file.txt content
+file.txt content
